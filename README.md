@@ -126,7 +126,7 @@ npm run dev
 Servidor disponible en:
 
 ```text
-http://localhost:3000
+http://localhost:8000
 ```
 
 ---
